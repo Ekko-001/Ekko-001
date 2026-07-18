@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="left" style="color:#1e90ff;">Hello, I'm Ekko</h1>
 
-<!--
-**Ekko-001/Ekko-001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> <span style="color:#444;">A developer passionate about games and immersive tech.</span>
 
-Here are some ideas to get you started:
+### <span style="color:#1e90ff;">Tech Stack</span>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![VR/AR/XR](https://img.shields.io/badge/VR%2FAR%2FXR-0a84ff?style=for-the-badge&logo=apachespark&logoColor=white)
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/HunterEkko/HunterEkko/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/HunterEkko/HunterEkko/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/HunterEkko/HunterEkko/blob/output/github-snake.svg" />
+</picture>
